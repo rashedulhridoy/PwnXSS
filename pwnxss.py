@@ -9,7 +9,10 @@ from lib.helper.Log import *
 from lib.core import *
 from random import randint
 from lib.crawler.crawler import *
+x = " "
 print("Moded By Rashedul Hridoy")
+print(x)
+
 epilog="""
 Github: https://www.github.com/pwn0sec/PwnXSS
 Version: 0.5 Final
