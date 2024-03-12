@@ -1,6 +1,6 @@
 '''
 PwnXSS - 2019/2020
-This project was created by Andripwn with Pwn0sec team.
+This project was created by Andripwn with Pwn0sec team and This PwnXSS is Moded by Rashedul Hridoy.
 Copyright under the MIT license
 '''
 import argparse
@@ -9,6 +9,7 @@ from lib.helper.Log import *
 from lib.core import *
 from random import randint
 from lib.crawler.crawler import *
+print("Moded By Rashedul Hridoy")
 epilog="""
 Github: https://www.github.com/pwn0sec/PwnXSS
 Version: 0.5 Final
