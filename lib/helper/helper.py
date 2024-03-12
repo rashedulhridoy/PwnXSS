@@ -42,4 +42,5 @@ Moded By Rashedul Hridoy
 """%(R+"{v0.5 Final}"+G,underline+C+"https://github.com/pwn0sec/PwnXSS"+N+G)
 	
 >>>>>>> branch 'master' of https://github.com/pwn0sec/PwnXSS
+>>>>>>> Customize Version PwnXSS Rashedul Hridoy Edition of https://github.com/rashedulhridoy/PwnXSS
 """
